@@ -1503,6 +1503,7 @@ export class Slider extends React.Component<SliderProps, any> {}
 export type SocialMediaType =
   | 'facebook'
   | 'twitter'
+  | 'google'
   | 'google-plus-official'
   | 'pinterest'
   | 'linkedin'
